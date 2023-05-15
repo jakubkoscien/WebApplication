@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomApp", "CustomApp\CustomApp.csproj", "{D6D648E5-CBF0-4282-85DB-A28F21BA2C8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomAPI", "CustomAPI\CustomAPI.csproj", "{29EFA89F-500A-437F-92CD-7854DDF5C45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{FC03B2DA-DB4A-4D8A-A863-36009BFCBCF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D648E5-CBF0-4282-85DB-A28F21BA2C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D648E5-CBF0-4282-85DB-A28F21BA2C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D648E5-CBF0-4282-85DB-A28F21BA2C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D648E5-CBF0-4282-85DB-A28F21BA2C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EFA89F-500A-437F-92CD-7854DDF5C45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EFA89F-500A-437F-92CD-7854DDF5C45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EFA89F-500A-437F-92CD-7854DDF5C45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EFA89F-500A-437F-92CD-7854DDF5C45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC03B2DA-DB4A-4D8A-A863-36009BFCBCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC03B2DA-DB4A-4D8A-A863-36009BFCBCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC03B2DA-DB4A-4D8A-A863-36009BFCBCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC03B2DA-DB4A-4D8A-A863-36009BFCBCF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE1CF698-04F8-442C-9948-422A8DCB32FD}
+	EndGlobalSection
+EndGlobal
